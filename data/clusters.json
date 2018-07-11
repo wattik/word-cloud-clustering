@@ -1,0 +1,419 @@
+{
+	"words": [
+		{
+			"name": "Association football",
+			"weight:": 0.05405405405405406,
+			"word_id": 29
+		},
+		{
+			"name": "Later lives",
+			"weight:": 0.06418918918918919,
+			"word_id": 9
+		},
+		{
+			"name": "Trump family",
+			"weight:": 0.08445945945945946,
+			"word_id": 8
+		},
+		{
+			"name": "Presidency of Donald Trump",
+			"weight:": 0.08445945945945946,
+			"word_id": 7
+		},
+		{
+			"name": "Donald Trump",
+			"weight:": 0.19932432432432431,
+			"word_id": 2
+		},
+		{
+			"name": "Political career of Donald Trump",
+			"weight:": 0.17567567567567569,
+			"word_id": 3
+		},
+		{
+			"name": "Foreign relations of Korea",
+			"weight:": 0.0777027027027027,
+			"word_id": 16
+		},
+		{
+			"name": "North Korea",
+			"weight:": 0.0945945945945946,
+			"word_id": 15
+		},
+		{
+			"name": "Politics of North Korea",
+			"weight:": 0.10135135135135136,
+			"word_id": 13
+		},
+		{
+			"name": "Government of North Korea",
+			"weight:": 0.09797297297297297,
+			"word_id": 14
+		},
+		{
+			"name": "Politics",
+			"weight:": 0.5067567567567568,
+			"word_id": 0
+		},
+		{
+			"name": "Government",
+			"weight:": 0.3918918918918919,
+			"word_id": 10
+		},
+		{
+			"name": "International relations",
+			"weight:": 0.25675675675675674,
+			"word_id": 1
+		},
+		{
+			"name": "Diplomacy",
+			"weight:": 0.08445945945945946,
+			"word_id": 6
+		},
+		{
+			"name": "Foreign policy",
+			"weight:": 0.14189189189189189,
+			"word_id": 4
+		},
+		{
+			"name": "Global politics",
+			"weight:": 0.10472972972972973,
+			"word_id": 5
+		},
+		{
+			"name": "Israel",
+			"weight:": 0.060810810810810814,
+			"word_id": 12
+		},
+		{
+			"name": "Politics of the Middle East",
+			"weight:": 0.07094594594594594,
+			"word_id": 21
+		},
+		{
+			"name": "Human rights abuses",
+			"weight:": 0.09797297297297297,
+			"word_id": 27
+		},
+		{
+			"name": "Forced migration",
+			"weight:": 0.09121621621621621,
+			"word_id": 28
+		},
+		{
+			"name": "3rd-millennium conflicts",
+			"weight:": 0.06756756756756757,
+			"word_id": 25
+		},
+		{
+			"name": "Conflicts",
+			"weight:": 0.22635135135135134,
+			"word_id": 19
+		},
+		{
+			"name": "Warfare",
+			"weight:": 0.17229729729729729,
+			"word_id": 23
+		},
+		{
+			"name": "War",
+			"weight:": 0.16891891891891891,
+			"word_id": 24
+		},
+		{
+			"name": "Immigration",
+			"weight:": 0.057432432432432436,
+			"word_id": 17
+		},
+		{
+			"name": "Human migration",
+			"weight:": 0.05405405405405406,
+			"word_id": 20
+		},
+		{
+			"name": "Human activities",
+			"weight:": 0.09121621621621621,
+			"word_id": 18
+		},
+		{
+			"name": "Public sphere",
+			"weight:": 0.10810810810810811,
+			"word_id": 11
+		},
+		{
+			"name": "Law",
+			"weight:": 0.0777027027027027,
+			"word_id": 22
+		},
+		{
+			"name": "Justice",
+			"weight:": 0.07432432432432433,
+			"word_id": 26
+		}
+	],
+	"hierarchical_cluster": {
+		"leaf": false,
+		"left_child": {
+			"word_id": 29,
+			"leaf": true
+		},
+		"right_child": {
+			"leaf": false,
+			"left_child": {
+				"leaf": false,
+				"left_child": {
+					"leaf": false,
+					"left_child": {
+						"word_id": 9,
+						"leaf": true
+					},
+					"right_child": {
+						"leaf": false,
+						"left_child": {
+							"word_id": 8,
+							"leaf": true
+						},
+						"right_child": {
+							"leaf": false,
+							"left_child": {
+								"word_id": 7,
+								"leaf": true
+							},
+							"right_child": {
+								"leaf": false,
+								"left_child": {
+									"word_id": 2,
+									"leaf": true
+								},
+								"right_child": {
+									"word_id": 3,
+									"leaf": true
+								},
+								"cluster_size": 2,
+								"children_distance": 0.11864406779661017
+							},
+							"cluster_size": 3,
+							"children_distance": 0.5477509778357237
+						},
+						"cluster_size": 4,
+						"children_distance": 0.642090395480226
+					},
+					"cluster_size": 5,
+					"children_distance": 0.7083041017363051
+				},
+				"right_child": {
+					"leaf": false,
+					"left_child": {
+						"leaf": false,
+						"left_child": {
+							"word_id": 16,
+							"leaf": true
+						},
+						"right_child": {
+							"leaf": false,
+							"left_child": {
+								"word_id": 15,
+								"leaf": true
+							},
+							"right_child": {
+								"leaf": false,
+								"left_child": {
+									"word_id": 13,
+									"leaf": true
+								},
+								"right_child": {
+									"word_id": 14,
+									"leaf": true
+								},
+								"cluster_size": 2,
+								"children_distance": 0.03333333333333333
+							},
+							"cluster_size": 3,
+							"children_distance": 0.14516129032258063
+						},
+						"cluster_size": 4,
+						"children_distance": 0.2261904761904762
+					},
+					"right_child": {
+						"leaf": false,
+						"left_child": {
+							"leaf": false,
+							"left_child": {
+								"word_id": 0,
+								"leaf": true
+							},
+							"right_child": {
+								"word_id": 10,
+								"leaf": true
+							},
+							"cluster_size": 2,
+							"children_distance": 0.4260355029585799
+						},
+						"right_child": {
+							"leaf": false,
+							"left_child": {
+								"word_id": 1,
+								"leaf": true
+							},
+							"right_child": {
+								"leaf": false,
+								"left_child": {
+									"word_id": 6,
+									"leaf": true
+								},
+								"right_child": {
+									"leaf": false,
+									"left_child": {
+										"word_id": 4,
+										"leaf": true
+									},
+									"right_child": {
+										"word_id": 5,
+										"leaf": true
+									},
+									"cluster_size": 2,
+									"children_distance": 0.2619047619047619
+								},
+								"cluster_size": 3,
+								"children_distance": 0.5017942583732058
+							},
+							"cluster_size": 4,
+							"children_distance": 0.5701754385964912
+						},
+						"cluster_size": 6,
+						"children_distance": 0.7623921822064464
+					},
+					"cluster_size": 10,
+					"children_distance": 0.808944152104275
+				},
+				"cluster_size": 15,
+				"children_distance": 0.9057273176814651
+			},
+			"right_child": {
+				"leaf": false,
+				"left_child": {
+					"leaf": false,
+					"left_child": {
+						"leaf": false,
+						"left_child": {
+							"word_id": 12,
+							"leaf": true
+						},
+						"right_child": {
+							"word_id": 21,
+							"leaf": true
+						},
+						"cluster_size": 2,
+						"children_distance": 0.5555555555555556
+					},
+					"right_child": {
+						"leaf": false,
+						"left_child": {
+							"leaf": false,
+							"left_child": {
+								"word_id": 27,
+								"leaf": true
+							},
+							"right_child": {
+								"word_id": 28,
+								"leaf": true
+							},
+							"cluster_size": 2,
+							"children_distance": 0.25
+						},
+						"right_child": {
+							"leaf": false,
+							"left_child": {
+								"word_id": 25,
+								"leaf": true
+							},
+							"right_child": {
+								"leaf": false,
+								"left_child": {
+									"word_id": 19,
+									"leaf": true
+								},
+								"right_child": {
+									"leaf": false,
+									"left_child": {
+										"word_id": 23,
+										"leaf": true
+									},
+									"right_child": {
+										"word_id": 24,
+										"leaf": true
+									},
+									"cluster_size": 2,
+									"children_distance": 0.22807017543859648
+								},
+								"cluster_size": 3,
+								"children_distance": 0.3879699248120301
+							},
+							"cluster_size": 4,
+							"children_distance": 0.6701944821347806
+						},
+						"cluster_size": 6,
+						"children_distance": 0.7714508984581251
+					},
+					"cluster_size": 8,
+					"children_distance": 0.9053002882337248
+				},
+				"right_child": {
+					"leaf": false,
+					"left_child": {
+						"leaf": false,
+						"left_child": {
+							"word_id": 17,
+							"leaf": true
+						},
+						"right_child": {
+							"word_id": 20,
+							"leaf": true
+						},
+						"cluster_size": 2,
+						"children_distance": 0.16666666666666666
+					},
+					"right_child": {
+						"leaf": false,
+						"left_child": {
+							"word_id": 18,
+							"leaf": true
+						},
+						"right_child": {
+							"leaf": false,
+							"left_child": {
+								"word_id": 11,
+								"leaf": true
+							},
+							"right_child": {
+								"leaf": false,
+								"left_child": {
+									"word_id": 22,
+									"leaf": true
+								},
+								"right_child": {
+									"word_id": 26,
+									"leaf": true
+								},
+								"cluster_size": 2,
+								"children_distance": 0.2692307692307692
+							},
+							"cluster_size": 3,
+							"children_distance": 0.8643074250976986
+						},
+						"cluster_size": 4,
+						"children_distance": 0.8800440300440301
+					},
+					"cluster_size": 6,
+					"children_distance": 0.9243124587233267
+				},
+				"cluster_size": 14,
+				"children_distance": 0.9719064985633498
+			},
+			"cluster_size": 29,
+			"children_distance": 0.9843947190147337
+		},
+		"cluster_size": 30,
+		"children_distance": 1.0
+	}
+}

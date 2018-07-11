@@ -1,0 +1,27 @@
+{
+	"words": [
+		{
+			"name": "Apple",
+			"weight:": 1.0,
+			"word_id": 0
+		},
+		{
+			"name": "Google",
+			"weight:": 0.5,
+			"word_id": 1
+		}
+	],
+	"hierarchical_cluster": {
+		"leaf": false,
+		"left_child": {
+			"word_id": 0,
+			"leaf": true
+		},
+		"right_child": {
+			"word_id": 1,
+			"leaf": true
+		},
+		"cluster_size": 2,
+		"children_distance": 0.5
+	}
+}

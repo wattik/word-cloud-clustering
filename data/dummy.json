@@ -1,0 +1,15 @@
+[
+    {
+        "postId": "1",
+        "topics": [
+            "Apple"
+        ]
+    },
+    {
+        "postId": "2",
+        "topics": [
+            "Apple",
+            "Google"
+        ]
+    }
+]
